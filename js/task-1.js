@@ -8,5 +8,7 @@
 const apples = 47;
 const grapes = 135;
 const sum = apples + grapes;
+const difference = apples - grapes;
 
 console.log(sum);
+console.log(difference);
